@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-notatki/p-ai-ra-egz-teoria/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/P AiRA EGZ teoria/","tags":["gardenEntry"]}
 ---
 
 1. [[10 Notatki/Podstawowe człony dynamiczne i ich identyfikacja w UAR\|Podstawowe człony dynamiczne i ich identyfikacja w UAR]]
