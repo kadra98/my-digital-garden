@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/10 Notatki/Równania opisujące obiekty inercyjne/","tags":["wiedza/definicja"]}
+---
+
+
+|                                   | obiekt inercyjny I rzędu                            | obiekt inercyjny II rzędu<br>$0<\xi<1$<br>$\xi$ – współczynnik tłumienia                                                                                              | obiekt oscylacyjny<br>$1\leq\xi$<br>                                                                         |
+| --------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| r.r                               | $a_{1} \frac{dy(t)}{dt}+a_{0}y(t)=b_{0}$            | $a_{2}\frac{d^2y(t)}{dt^2}+a_{1}\frac{dy(t)}{dt}+a_{0}y(t)=b_{0}x(t)$<br>$\frac{d^2y(t)}{dt^2}+2\xi\omega_{0}\frac{dy(t)}{dt}+\omega^2_{0}y(t)=k\omega^2_{0}x(t)$<br> | jak po lewej                                                                                                 |
+| transmitancja operatorowa         | $K(s)=\frac{b_{0}}{sa_{1}+a_{0}}$                   | $K(s)=\frac{k}{(1+sT_{1})(1+sT_{2})}$                                                                                                                                 | $K(s)=\frac{k\omega_{0}^2}{s^2+2\xi \omega_{0}s+\omega_{0}^2}$                                               |
+| odpowiedź skokowa                 | $y(t)=kA(1-e^{-\frac{t}{T}})$                       | b/k danych                                                                                                                                                            | $y(t)=kA[1-\frac{e^{-\xi \omega_{0}t})}{\sqrt{ 1-\xi^2 }}\sin{(\omega_{w}t+\varphi)}]$                       |
+| charakterystyka częstotliwościowa | $M(\omega)=20\log\frac{k}{\sqrt{ 1+(\omega T)^2 }}$ | $M(\omega)=20\log\frac{k}{\sqrt{(1-\omega^2T_{1}^2)(1-\omega^2T_{2}^2) }}$                                                                                            | $M(\omega)=20\log{\frac{k}{\sqrt{ [1-(\frac{\omega}{\omega_{0}})^2]^2+(2\xi\frac{\omega}{\omega_{0}})^2 }}}$ |
+| odpowiedź skokowa                 | $\varphi(\omega)=-\arctan(\omega T)-\omega r$       | $\varphi(\omega)=-\arctan(\omega T_{1})-\arctan(\omega T_{2})$                                                                                                        | $\varphi(\omega)=\arctan{\frac{2\xi}{\frac{\omega}{\omega_{0}}-\frac{\omega_{0}}{\omega}}}$                  |
+* $k=\frac{b_{0}}{a_{0}}$ – współczynnik wzmocnienia statycznego
+* $\omega_{0}=\sqrt{\frac{a_{0}}{a_{2}} }$ – pulsacja drgań własnych nietłumionych
+* $\xi=\frac{a_{1}}{2\sqrt{ a_{0}a_{2} }}$ – stopień (współczynnik) tłumienia
