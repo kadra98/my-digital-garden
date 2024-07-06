@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/P NE EGZ teoria/"}
+{"dg-publish":true,"permalink":"/10 Notatki/P NE EGZ teoria/","tags":["gardenEntry"]}
 ---
 
 * #### [[10 Notatki/P NE EGZ Teoria Zestaw 1\|P NE EGZ Teoria Zestaw 1]]
