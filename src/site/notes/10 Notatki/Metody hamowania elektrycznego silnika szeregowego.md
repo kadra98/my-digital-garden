@@ -5,6 +5,6 @@
 
 | metoda                                    | zalety                                          | wady                                                            |
 | ----------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
-| [[Hamowanie przeciwłączeniem\|Hamowanie przeciwłączeniem]]            | + duży moment hamownia przy małych prędkościach | – brak zwrotu energii i pobór energii z sieci podczas hamowania |
+| [[10 Notatki/Hamowanie przeciwłączeniem\|Hamowanie przeciwłączeniem]]            | + duży moment hamownia przy małych prędkościach | – brak zwrotu energii i pobór energii z sieci podczas hamowania |
 | [[Hamowanie dynamiczne z saowzbudzeniem\|Hamowanie dynamiczne z saowzbudzeniem]] |                                                 |                                                                 |
 

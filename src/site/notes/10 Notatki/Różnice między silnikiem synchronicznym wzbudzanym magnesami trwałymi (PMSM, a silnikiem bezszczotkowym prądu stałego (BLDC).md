@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/10 Notatki/Różnice między silnikiem synchronicznym wzbudzanym magnesami trwałymi (PMSM, a silnikiem bezszczotkowym prądu stałego (BLDC)/","tags":["wiedza/definicja"]}
+---
+
+
+| aspekty                  | PMSM                                                                                                                             | BLDC                                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| kształt napięcia i prądu | ***sinus***<br><br>dzięki temu płynna praca i mniejsze wibracje                                                                  | ***trapez / prostokąt***<br><br>większe wibracje<br>                                                                                    |
+| Metoda sterowania        | **skomplikowane**<br><br>np. [[10 Notatki/Sterowanie wektorowe (FOC)\|Sterowanie wektorowe (FOC)]]<br>precyzyjna kontrola momentu obrotowego i prędkości<br>            | **proste**<br><br>np. [[Sterowanie przez komutację\|Sterowanie przez komutację]] <br>może być oparte na [[Hall sensor\|Hall sensor]]ach, które wykrywają pozycję wirnika<br><br> |
+| Struktura magnesów       | **magnesy w wirniku**<br><br>bardziej skomplikowana konstrukcja, ale wysoka sprawność i stabilność<br>                           | **magnesy w wirniku**<br><br>konstrukcja prostsza<br>                                                                                   |
+| zastosowania             | wysoka precyzja i efektywność, więc:<br><br>– [[Samochody EV\|Samochody EV]]<br>– [[10 Notatki/Maszyna CNC\|Maszyna CNC]]<br>– robotyka<br>– sprzęt AGD wysokiej klasy | prostota, niezawodność i efektywność<br><br>– wentylatory<br>– pompy<br>– drony<br>– elektronarzędzia                                   |
+|                          |                                                                                                                                  |                                                                                                                                         |
