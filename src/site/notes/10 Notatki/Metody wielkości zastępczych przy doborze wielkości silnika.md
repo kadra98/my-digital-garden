@@ -6,7 +6,9 @@
 
 * Wybór 
 	* Odpowiednia metoda wg [[10 Notatki/ChatGPT\|ChatGPT]]: [[10 Notatki/Metoda prądu skutecznego (metoda wartości skutecznej)\|Metoda prądu skutecznego (metoda wartości skutecznej)]] 
-	* [[Bartosz Stanaszek\|Bartosz Stanaszek]] twierdzi, że: [[10 Notatki/Metoda wartości średniej momentu (średni moment)\|Metoda wartości średniej momentu (średni moment)]]
+	* [[Bartosz Stanaszek\|Bartosz Stanaszek]] twierdzi, że: [[10 Notatki/Metoda wartości średniej momentu (średni moment)\|Metoda wartości średniej momentu (średni moment)]]\
+* Dobór
+	* ![Pasted image 20240706234027.png](/img/user/80%20Zasoby/Pasted%20image%2020240706234027.png)
 * Inne metody:
 	* [[10 Notatki/Metoda wartości szczytowej (moment maksymalny)\|Metoda wartości szczytowej (moment maksymalny)]]
 	* [[10 Notatki/Metoda średniej mocy\|Metoda średniej mocy]]
