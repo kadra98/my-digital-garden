@@ -8,14 +8,14 @@
 
 
 
-1. [[Sprowadzenie momenty obciążenia na wał silnika\|Sprowadzenie momenty obciążenia na wał silnika]]
+1. [[10 Notatki/Sprowadzenie momenty obciążenia na wał silnika\|Sprowadzenie momenty obciążenia na wał silnika]]
 2. [[10 Notatki/Praca dorywcza silników elektrycznych\|Praca dorywcza silników elektrycznych]]
-3. [[Asynchroniczna kaskada przekształtnikowa stałego momentu\|Asynchroniczna kaskada przekształtnikowa stałego momentu]]
+3. [[10 Notatki/Asynchroniczna kaskada przekształtnikowa stałego momentu\|Asynchroniczna kaskada przekształtnikowa stałego momentu]]
 4. [[10 Notatki/Metody wielkości zastępczych przy doborze wielkości silnika\|Metody wielkości zastępczych przy doborze wielkości silnika]]
 5. [[10 Notatki/Metody hamowania elektrycznego silnika szeregowego\|Metody hamowania elektrycznego silnika szeregowego]]
 6. [[10 Notatki/Silnik obcowzbudny zasilany z prostownika tyrystorowego\|Silnik obcowzbudny zasilany z prostownika tyrystorowego]]
 7. [[10 Notatki/Jak zmieniają się parametry silnika w zależności od parametrów zasilania\|Jak zmieniają się parametry silnika w zależności od parametrów zasilania]]
-8. [[Zależność prędkości chwilowej od momentu\|Zależność prędkości chwilowej od momentu]]
+8. [[10 Notatki/Zależność prędkości chwilowej od momentu\|Zależność prędkości chwilowej od momentu]]
 
 </div></div>
 
@@ -25,7 +25,7 @@
 
 
 
-1. [[Metody i układy sterowania prędkości silników asynchronicznych klatkowych\|Metody i układy sterowania prędkości silników asynchronicznych klatkowych]]
+1. [[10 Notatki/Metody i układy sterowania prędkości silników asynchronicznych klatkowych\|Metody i układy sterowania prędkości silników asynchronicznych klatkowych]]
 2. [[10 Notatki/Hamowanie przeciwłączeniem\|Hamowanie przeciwłączeniem]]
 3. [[10 Notatki/Różnice między silnikiem synchronicznym wzbudzanym magnesami trwałymi (PMSM, a silnikiem bezszczotkowym prądu stałego (BLDC)\|Różnice między silnikiem synchronicznym wzbudzanym magnesami trwałymi (PMSM, a silnikiem bezszczotkowym prądu stałego (BLDC)]]
 
