@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 * ### 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
