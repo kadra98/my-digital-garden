@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ 5.13 – Regulacja prędkości obrotowej silników prądu stałego/","tags":["wiedza/zettel"]}
 ---
 
-* ## Regulacja szeregowa
+* ## Regulacja szeregowa [[10 Notatki/Silniki prądu stałego DC\|silników prądu stałego]]
 { #36d915}
 
 	* Polega na włączeniu rezystancji regulacyjnej $R_{R}$ w szereg z obwodem twornika, tj. wirnika
