@@ -10,6 +10,6 @@
 
 * [[10 Notatki/Hamowanie odzyskowe (prądnicowe)\|Hamowanie odzyskowe (prądnicowe)]]
 * [[10 Notatki/Hamowanie dynamiczne\|Hamowanie dynamiczne]]
-* [[Hamowanie przez zmianę kierunku wirowania pola\|Hamowanie przez zmianę kierunku wirowania pola]]
+* [[10 Notatki/Hamowanie przeciwłączeniem\|Hamowanie przeciwłączeniem]]
 * [[Hamowanie przez niesymetrię zasilania\|Hamowanie przez niesymetrię zasilania]]
 * [[Hamowanie generatorowe\|Hamowanie generatorowe]]

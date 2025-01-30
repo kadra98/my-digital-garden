@@ -6,3 +6,7 @@
 * Dwie metody sterowania hamowaniem dynamicznym:
 	* z histerezą
 	* z modulacją szerokości impulsu
+* Dynamiczne z samowzbudzeniem
+	* ![Pasted image 20240707010452.png](/img/user/80%20Zasoby/Pasted%20image%2020240707010452.png)
+	* ![Pasted image 20240707010506.png](/img/user/80%20Zasoby/Pasted%20image%2020240707010506.png)
+	* ![Pasted image 20240707010515.png](/img/user/80%20Zasoby/Pasted%20image%2020240707010515.png)

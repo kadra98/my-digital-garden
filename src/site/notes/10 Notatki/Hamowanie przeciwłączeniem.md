@@ -10,3 +10,5 @@
 	* ![Pasted image 20240706231747.png](/img/user/80%20Zasoby/Pasted%20image%2020240706231747.png)
 * Równanie, które nic nikomu nie mówią:
 	* ![Pasted image 20240706231846.png](/img/user/80%20Zasoby/Pasted%20image%2020240706231846.png)
+
+* ![Pasted image 20240707010542.png](/img/user/80%20Zasoby/Pasted%20image%2020240707010542.png)
