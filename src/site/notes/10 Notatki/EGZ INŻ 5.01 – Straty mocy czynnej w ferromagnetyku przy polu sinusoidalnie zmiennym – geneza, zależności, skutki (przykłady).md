@@ -4,7 +4,7 @@
 
 * ## Geneza
 	* gdy przemagnesowujemy jakiś materiał, to domeny magnetyczne pod wpływem pola magnetycznego, *chcą* się dostosować do nowego pola, ułożyć inaczej
-Straty dzielimy na:
+* Straty dzielimy na:
 * ## [[10 Notatki/Straty jałowe\|Straty jałowe]]
 	* głównie o te się rozchodzi
 	* **przyjmuje się, że nie są one zależne od temperatury rdzenia i są uznawane jako straty stałe, niezależne od obciążenia**
