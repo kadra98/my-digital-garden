@@ -29,10 +29,10 @@
 			* Montaż na radiatorze lub kapsuły metalowe
 * ## Podział diod ze względu na czas przełączania i ich zastosowania
 
-| nazwa diody       | konwencjonalna prostownicza        | szybkie                                                | Ultraszybkie                 | Schottky'ego                                  |
-| ----------------- | ---------------------------------- | ------------------------------------------------------ | ---------------------------- | --------------------------------------------- |
-| czas przełączania | $50\div 20 \space \micro \text{s}$ | $200\div 25 \space \micro \text{s}$                    | $50\div 10 \space \text{ns}$ | $5\div 1 \space \text{ns}$                    |
-| zastosowanie      | – prostowniki<br>– zasilacze       | – zasilacze impulsowe<br>– przetworniki<br>– inwertery |                              | – zasilacze impulsowe<br>– przetworniki DC-DC |
+| nazwa diody       | [[10 Notatki/Dioda prostownicza\|konwencjonalna prostownicza]] | [[10 Notatki/Dioda szybka\|Dioda szybka]]                                       | Ultraszybkie                 | [[10 Notatki/Dioda Schottky'ego\|Dioda Schottky'ego]]                        |
+| ----------------- | --------------------------------------------------- | ------------------------------------------------------ | ---------------------------- | --------------------------------------------- |
+| czas przełączania | $50\div 20 \space \micro \text{s}$                  | $200\div 25 \space \micro \text{s}$                    | $50\div 10 \space \text{ns}$ | $5\div 1 \space \text{ns}$                    |
+| zastosowanie      | – prostowniki<br>– zasilacze                        | – zasilacze impulsowe<br>– przetworniki<br>– inwertery |                              | – zasilacze impulsowe<br>– przetworniki DC-DC |
 * ## Omówienie rodzajów diod
 	* ### Dioda prostownicza
 	* 
