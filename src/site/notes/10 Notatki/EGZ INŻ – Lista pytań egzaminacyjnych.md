@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
