@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
 ---
 
-* ### 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
+* ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
+	* [[10 Notatki/EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie]]
+	* 
+* ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
 	* [[10 Notatki/EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów\|EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów]]
 	* [[10 Notatki/EGZ INŻ 5.03 – Pomiarowe wyznaczenie parametrów schematu zastępczego transformatora 3-fazowego\|EGZ INŻ 5.03 – Pomiarowe wyznaczenie parametrów schematu zastępczego transformatora 3-fazowego]]
