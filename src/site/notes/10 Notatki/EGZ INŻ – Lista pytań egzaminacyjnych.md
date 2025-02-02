@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
 ---
 
 * ### 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
@@ -16,4 +16,4 @@
 	* [[10 Notatki/EGZ INŻ 5.11 – Metody synchronizacji prądnicy synchronicznej z systemem elektroenergetycznym\|EGZ INŻ 5.11 – Metody synchronizacji prądnicy synchronicznej z systemem elektroenergetycznym]]
 	* [[10 Notatki/EGZ INŻ 5.12 Regulacja mocy czynnej i biernej wydawane do sieci przez prądnicę współpracującą z systemem elektroenergetycznym\|EGZ INŻ 5.12 Regulacja mocy czynnej i biernej wydawane do sieci przez prądnicę współpracującą z systemem elektroenergetycznym]]
 	* [[10 Notatki/EGZ INŻ 5.13 – Regulacja prędkości obrotowej silników prądu stałego\|EGZ INŻ 5.13 – Regulacja prędkości obrotowej silników prądu stałego]]
-	* 
+	* [[10 Notatki/EGZ INŻ 5.14 – Silnik BLDC – konstrukcja, sterowanie, zastosowanie\|EGZ INŻ 5.14 – Silnik BLDC – konstrukcja, sterowanie, zastosowanie]]
