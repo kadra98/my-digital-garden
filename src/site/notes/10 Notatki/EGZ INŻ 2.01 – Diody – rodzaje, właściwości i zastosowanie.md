@@ -41,7 +41,7 @@
 
 
 
-* najbardziej standardowy typ diody, używany głównie do prostowania prądu zmiennego na stały w aplikacjach takich jak zasilacze i układy energetyczne
+* najbardziej standardowy typ [[10 Notatki/Dioda\|diody]], używany głównie do prostowania prądu zmiennego na stały w aplikacjach takich jak zasilacze i układy energetyczne
 * Charakteryzują się stosunkowo wysokim napięciem przewodzenia i przeznczone są do pracy w dużych prądach i napięciach
 * #### Zastosowanie
 	* prostowniki
@@ -58,7 +58,7 @@
 
 
 
-* krótki czas przełączania, co pozwala na ich zastosowanie , gdzie kluczowa jest szybka odpowiedź przy przełączaniu
+* krótki czas przełączania [[10 Notatki/Dioda\|diody]], co pozwala na ich zastosowanie , gdzie kluczowa jest szybka odpowiedź przy przełączaniu
 	* Wysoka szybkość wyłączania jest kluczowa w systemach zasilania impulsowego
 * #### Zastosowanie
 	* przetwornice
