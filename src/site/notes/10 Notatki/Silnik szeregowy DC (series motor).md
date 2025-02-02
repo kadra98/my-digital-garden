@@ -9,3 +9,4 @@
 		3. drugą część stojana
 * dobry moment rozruchowy
 * prędkość spada drastycznie podczas obciążenia
+* Nietypowe silnik szeregowy – [[10 Notatki/Silnik uniwersalny (AC-DC)\|Silnik uniwersalny (AC-DC)]]
