@@ -5,7 +5,7 @@
 * składa się z dwóch złącz, różnie domieszkowanego krzemu
 { #222085}
 
-	* typu P – zubożone, posiada dziury, bo do tej warstwy wstrzyknięto np. bor, który nie ma tak jak krzem, czterech elektronów walencyjnych, tylko 3 (zobacz więcej: [[10 Notatki/Tranzystor\|Tranzystor]]), ale 4 *rączki*
+	* typu P – zubożone, posiada dziury, bo do tej warstwy wstrzyknięto np. bor, który nie ma tak jak krzem, czterech elektronów walencyjnych, tylko 3 (zobacz więcej: [[10 Notatki/Tranzystor bipolarny (BJT– ang. Bipolar junction transistor)\|Tranzystor bipolarny (BJT– ang. Bipolar junction transistor)]]), ale 4 *rączki*
 	* typu N – wzbogacone, posiada elektrony, bo do krzemu wstrzyknięto np. fosfor, który posiada 5 elektronów walencyjnych, a nie jak krzem – 4
 * Na połączeniu tych dwóch złącz, część wolnych elektronów wypełniła już wolne dziury, co sprawia, że że skraje obu złącz posiadają już swoją polaryzację
 	* Złącze typu P jest spolaryzowane na –, bo część elektronów wypełniła już swoje dziury
