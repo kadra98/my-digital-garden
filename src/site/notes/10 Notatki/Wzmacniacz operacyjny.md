@@ -50,4 +50,14 @@
 		* ![Pasted image 20250206195755.png](/img/user/80%20Zasoby/Pasted%20image%2020250206195755.png)
 		* sumuje napięcia
 		* może tez je wzmocnić – wówczas wzmacnia je wg stosunku $\frac{R_{F}}{R}$
-* 
+* ## Zastosowanie
+
+| obszar                 | przykłady zastosowań                                                                                                                                        |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| wzmacniacze sygnałów   | – przedwzmacniacze audio<br>– wzmocnienia różnicowe<br>– eliminacja zakłóceń<br>**przykład:** wzmacniacz sygnału z mikrofonu w systemach nagłośnienia       |
+| filtry aktywnne        | – equalizery<br>– eliminacja szumów<br>– systemy radiowe<br>**przekład:** usuwanie szumu w systemach audio                                                  |
+| systemy pomiarowe      | – czujniki temperatury<br>– tensometry<br>– wzmacniacze izolacyjne<br>**przykład:** wzmocnienie sygnału z tensometru w elektronicznych wagach przemysłowych |
+| przetwarzanie sygnałów | – układy próbkowania<br>– bufory napięciowe<br>**przykład:** przetwarzanie sygnału analogowe na cyfrowy w kartach dźwiękowych                               |
+| generatory sygnałów    | – oscyloskopy<br>– modulatory PWM<br>przykład: generowanie przebiegu sinusoidalnego w syntezatorze muzycznym                                                |
+| sterowanie i automatyk | – [[10 Notatki/Regulator PID\|Regulator PID]]<br>– komparatory<br>– detektory progowe<br>**przykład:** regulacja temperatury w piecu przemysłowym za pomocą układu PID                |
+| zasilacze              | – stabilizatory napięcia<br>– zasilacze laboratoryjne<br>– zabezpieczenia<br>**przykład:** stabilizacja napięcia w precyzyjnych układach pomiarowych        |
