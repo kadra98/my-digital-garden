@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
 ---
 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
@@ -8,7 +8,7 @@
 	* [[10 Notatki/EGZ INŻ 2.03 – Tranzystory – rodzaje, właściwości, podstawowe układy\|EGZ INŻ 2.03 – Tranzystory – rodzaje, właściwości, podstawowe układy]]
 	* [[10 Notatki/EGZ INŻ 2.04 – Wzmacniacze operacyjne – cechy wzmacniacza idealnego, odstawowe układy pracy (nieodwracający, odwracający, sumator, wtórnik napięciowy), zastosowania\|EGZ INŻ 2.04 – Wzmacniacze operacyjne – cechy wzmacniacza idealnego, odstawowe układy pracy (nieodwracający, odwracający, sumator, wtórnik napięciowy), zastosowania]]
 	* [[10 Notatki/EGZ INŻ 2.05 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym jednopołówkowym i trójfazowym\|EGZ INŻ 2.05 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym jednopołówkowym i trójfazowym]]
-	* 
+	* [[10 Notatki/EGZ INŻ 2.06 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym dwupowłokowym jednofazowym i trójfazowym\|EGZ INŻ 2.06 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym dwupowłokowym jednofazowym i trójfazowym]]
 * ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
 	* [[10 Notatki/EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów\|EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów]]
