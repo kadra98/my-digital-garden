@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/Tranzystor/","tags":["wiedza/zettel"]}
+{"dg-publish":true,"permalink":"/10 Notatki/Tranzystor/","tags":["wiedza/zettel","to-do/research"]}
 ---
 
 * ## [[10 Notatki/Tranzystor bipolarny (BJT– ang. Bipolar junction transistor)\|Tranzystor bipolarny (BJT– ang. Bipolar junction transistor)]]

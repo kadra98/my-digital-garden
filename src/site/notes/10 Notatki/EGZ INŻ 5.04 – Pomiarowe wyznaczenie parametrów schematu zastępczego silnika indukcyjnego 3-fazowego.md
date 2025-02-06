@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ 5.04 – Pomiarowe wyznaczenie parametrów schematu zastępczego silnika indukcyjnego 3-fazowego/","tags":["wiedza/zettel"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ 5.04 – Pomiarowe wyznaczenie parametrów schematu zastępczego silnika indukcyjnego 3-fazowego/","tags":["wiedza/zettel","to-do/research"]}
 ---
 
 * Pomiary wykonać analogicznie do [[10 Notatki/EGZ INŻ 5.04 – Pomiarowe wyznaczenie parametrów schematu zastępczego silnika indukcyjnego 3-fazowego\|EGZ INŻ 5.04 – Pomiarowe wyznaczenie parametrów schematu zastępczego silnika indukcyjnego 3-fazowego]] z zastrzeżeniem, że w próbie 2 (na zwarcie):
