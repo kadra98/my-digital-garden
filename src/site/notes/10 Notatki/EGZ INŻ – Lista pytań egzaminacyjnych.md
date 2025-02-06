@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry"]}
 ---
 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
@@ -10,7 +10,7 @@
 	* [[10 Notatki/EGZ INŻ 2.05 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym jednopołówkowym i trójfazowym\|EGZ INŻ 2.05 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym jednopołówkowym i trójfazowym]]
 	* [[10 Notatki/EGZ INŻ 2.06 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym dwupowłokowym jednofazowym i trójfazowym\|EGZ INŻ 2.06 – Schematy połączeń, przebiegi czasowe napięć i prądów w układzie prostownikowym dwupowłokowym jednofazowym i trójfazowym]]\
 	* [[10 Notatki/EGZ INŻ 2.07 – Jednofazowy tranzystorowy falownik napięcia – schemat, przebiegi czasowe, zasada działania, właściwości, zastosowania\|EGZ INŻ 2.07 – Jednofazowy tranzystorowy falownik napięcia – schemat, przebiegi czasowe, zasada działania, właściwości, zastosowania]]
-	* [[EGZ INŻ 2.08 – Jednofazowy, tyrystorowy regulator napięcia przemiennego – schemat, przebiegi czasowe, zasada działania, właściwości, charakterystyki, zastosowania\|EGZ INŻ 2.08 – Jednofazowy, tyrystorowy regulator napięcia przemiennego – schemat, przebiegi czasowe, zasada działania, właściwości, charakterystyki, zastosowania]]
+	* [[10 Notatki/EGZ INŻ 2.08 – Jednofazowy, tyrystorowy regulator napięcia przemiennego – schemat, przebiegi czasowe, zasada działania, właściwości, charakterystyki, zastosowania\|EGZ INŻ 2.08 – Jednofazowy, tyrystorowy regulator napięcia przemiennego – schemat, przebiegi czasowe, zasada działania, właściwości, charakterystyki, zastosowania]]
 * ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
 	* [[10 Notatki/EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów\|EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów]]
