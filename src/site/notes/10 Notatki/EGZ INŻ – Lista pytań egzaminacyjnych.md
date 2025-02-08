@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
 ---
 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
@@ -19,6 +19,10 @@
 	* [[10 Notatki/EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową\|EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową]]
 	* [[10 Notatki/EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej\|EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej]]
 	* [[10 Notatki/EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)\|EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)]]
+* ## 4. Obwody magnetyczne
+	* [[10 Notatki/EGZ INŻ 4.01 – Podział materiałów magnetycznych. Charakterystyki magnesowania i właściwości materiałów magnetycznych stosowanych w obwodach magnetycznych o stałym i zmiennym polu magnetycznym\|EGZ INŻ 4.01 – Podział materiałów magnetycznych. Charakterystyki magnesowania i właściwości materiałów magnetycznych stosowanych w obwodach magnetycznych o stałym i zmiennym polu magnetycznym]]
+	* [[10 Notatki/EGZ INŻ 4.02 – Prawa dla obwodów magnetycznych (prawo Gaussa, prawo przepływu itd)\|EGZ INŻ 4.02 – Prawa dla obwodów magnetycznych (prawo Gaussa, prawo przepływu itd)]]
+	* [[10 Notatki/EGZ INŻ 4.03 – Analiza prostego obwodu magnetycznego z magnesem trwałym i szczeliną powietrzną\|EGZ INŻ 4.03 – Analiza prostego obwodu magnetycznego z magnesem trwałym i szczeliną powietrzną]]
 * ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
 	* [[10 Notatki/EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów\|EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów]]
