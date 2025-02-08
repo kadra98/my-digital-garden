@@ -16,7 +16,9 @@
 	* [[10 Notatki/EGZ INŻ 3.02 – Pomiar mocy czynnej, biernej, współczynnik mocy w obwodach jednofazowych o sinusoidalnie zmiennych przebiegach\|EGZ INŻ 3.02 – Pomiar mocy czynnej, biernej, współczynnik mocy w obwodach jednofazowych o sinusoidalnie zmiennych przebiegach]]
 	* [[10 Notatki/EGZ INŻ 3.03 – Metody pomiaru napięcia i prądu stałego oraz wartości skutecznej napięcia i prądu przemiennego\|EGZ INŻ 3.03 – Metody pomiaru napięcia i prądu stałego oraz wartości skutecznej napięcia i prądu przemiennego]]
 	* [[10 Notatki/EGZ INŻ 3.04 – Pomiar impedancji i jej składowych (przyrządy, schemat obwodu, obliczenie modułu i fazy impedancji, sposób oznaczenia charakteru impedancji – pojemnościowy, indukcyjny)\|EGZ INŻ 3.04 – Pomiar impedancji i jej składowych (przyrządy, schemat obwodu, obliczenie modułu i fazy impedancji, sposób oznaczenia charakteru impedancji – pojemnościowy, indukcyjny)]]
-	* 
+	* [[EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową\|EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową]]
+	* [[10 Notatki/EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej\|EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej]]
+	* [[10 Notatki/EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)\|EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)]]
 * ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
 	* [[10 Notatki/EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów\|EGZ INŻ 5.02 – Schemat zastępczy transformatora 3-fazowego i interpretacja jego parametrów]]
