@@ -12,7 +12,7 @@
 	* amperomierz
 	* Termometr
 * ## Metoda pomiarowa
-	* Pomiar wykonywany albo metodą mostkową (np. [[10 Notatki/Mostek Thomsona\|Mostek Thomsona]]) lub prądu stałego (metoda bezpośrednia)
+	* Pomiar wykonywany albo metodą mostkową (np. [[10 Notatki/Mostek Thomsona (Kelvina)\|Mostek Thomsona (Kelvina)]]) lub prądu stałego (metoda bezpośrednia)
 	* Do uzwojeń należy podłączyć stabilne źródło prądu stałego (kilka woltów) i zaczekać, aż nastanie stan ustalony – zależy od indukcyjności uzwojeń: może wynieść kilka sekund, bądź nawet kilka minut
 		* W przypadku transformatorów trójfazowych pomiaru należy dokonać dla każdej fazy osobno
 	* Zanotować wartość wskazaną przez amperomierz
