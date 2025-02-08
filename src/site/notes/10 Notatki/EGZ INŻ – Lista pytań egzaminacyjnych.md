@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ – Lista pytań egzaminacyjnych/","tags":["wiedza/spis_treści","gardenEntry"]}
 ---
 
+* ## 1. Elektrotechnika ogólna
+	* [[10 Notatki/EGZ INŻ 1.01 – Definicje mocy dla układów z przebiegami sinusoidalnymi\|EGZ INŻ 1.01 – Definicje mocy dla układów z przebiegami sinusoidalnymi]]
+	* 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
 	* [[10 Notatki/EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie]]
 	* [[10 Notatki/EGZ INŻ 2.02 – Tyrystory – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.02 – Tyrystory – rodzaje, właściwości i zastosowanie]]
