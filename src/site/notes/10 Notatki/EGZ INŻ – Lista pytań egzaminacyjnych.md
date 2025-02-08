@@ -15,6 +15,7 @@
 	* [[10 Notatki/EGZ INŻ 3.01 – Pomiar mocy w układach trójfazowych symetrycznych i niesymetrycznych\|EGZ INŻ 3.01 – Pomiar mocy w układach trójfazowych symetrycznych i niesymetrycznych]]
 	* [[10 Notatki/EGZ INŻ 3.02 – Pomiar mocy czynnej, biernej, współczynnik mocy w obwodach jednofazowych o sinusoidalnie zmiennych przebiegach\|EGZ INŻ 3.02 – Pomiar mocy czynnej, biernej, współczynnik mocy w obwodach jednofazowych o sinusoidalnie zmiennych przebiegach]]
 	* [[10 Notatki/EGZ INŻ 3.03 – Metody pomiaru napięcia i prądu stałego oraz wartości skutecznej napięcia i prądu przemiennego\|EGZ INŻ 3.03 – Metody pomiaru napięcia i prądu stałego oraz wartości skutecznej napięcia i prądu przemiennego]]
+	* [[10 Notatki/EGZ INŻ 3.04 – Pomiar impedancji i jej składowych (przyrządy, schemat obwodu, obliczenie modułu i fazy impedancji, sposób oznaczenia charakteru impedancji – pojemnościowy, indukcyjny)\|EGZ INŻ 3.04 – Pomiar impedancji i jej składowych (przyrządy, schemat obwodu, obliczenie modułu i fazy impedancji, sposób oznaczenia charakteru impedancji – pojemnościowy, indukcyjny)]]
 	* 
 * ## 5. [[10 Notatki/Maszyny elektryczne\|Maszyny elektryczne]] i [[10 Notatki/transformator\|transformator]]y
 	* [[10 Notatki/EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)\|EGZ INŻ 5.01 – Straty mocy czynnej w ferromagnetyku przy polu sinusoidalnie zmiennym – geneza, zależności, skutki (przykłady)]] 
