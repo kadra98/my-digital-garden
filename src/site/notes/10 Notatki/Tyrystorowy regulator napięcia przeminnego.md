@@ -48,3 +48,9 @@
 			* w [[10 Notatki/Tyrystorowy regulator napięcia przeminnego#^2bc940\|układzie typu L]] składowej tej nie ma, bo
 				* brak rezystancji oznacza brak tłumienia prądu
 				* prąd ten oscyluje, lub momentalnie zmienia kierunek przepływu
+* ## Zastosowania
+	* regulacja mocy w ściemniaczach lamp żarowych (ściemniacze fazowe) [[10 Notatki/Sterowanie oświetleniem\|Sterowanie oświetleniem]]
+	* Sterowanie prędkością małych [[10 Notatki/Jednofazowy silnik asynchroniczny\|Jednofazowy silnik asynchroniczny]]
+		* w większych układach stosuje się falowniki
+	* regulacja temperatury w systemach grzewczych
+	* układy [[Soft start\|Soft start]]
