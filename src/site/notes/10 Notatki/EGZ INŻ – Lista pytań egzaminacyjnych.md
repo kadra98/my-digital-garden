@@ -6,6 +6,7 @@
 	* [[10 Notatki/EGZ INŻ 1.01 – Definicje mocy dla układów z przebiegami sinusoidalnymi\|EGZ INŻ 1.01 – Definicje mocy dla układów z przebiegami sinusoidalnymi]]
 	* [[10 Notatki/EGZ INŻ 1.02 – Moce w obwodach z przebiegami okresowymi odkształconymi\|EGZ INŻ 1.02 – Moce w obwodach z przebiegami okresowymi odkształconymi]]
 	* [[10 Notatki/EGZ INŻ 1.03 – Rozwiązywanie obwodów elektrycznych liniowych – metoda superpozycji na (wybranym) przykładzie\|EGZ INŻ 1.03 – Rozwiązywanie obwodów elektrycznych liniowych – metoda superpozycji na (wybranym) przykładzie]]
+	* [[10 Notatki/EGZ INŻ 1.04 – Rozwiązywanie obwodów elektrycznych liniowych – metoda prądów oczkowych na przykładzie (obwód z 3 oczkami i co najmniej jedną gałęzią osobliwą)\|EGZ INŻ 1.04 – Rozwiązywanie obwodów elektrycznych liniowych – metoda prądów oczkowych na przykładzie (obwód z 3 oczkami i co najmniej jedną gałęzią osobliwą)]]
 	* 
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
 	* [[10 Notatki/EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie]]
@@ -24,7 +25,7 @@
 	* [[10 Notatki/EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową\|EGZ INŻ 3.05 – Pomiar rezystancji metodą mostkową]]
 	* [[10 Notatki/EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej\|EGZ INŻ 3.06 – Metody pomiaru mocy i energii elektrycznej]]
 	* [[10 Notatki/EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)\|EGZ INŻ 3.07 – Układ pomiarowy mocy czynnej w obwodzie jednofazowym z zastosowaniem przekładnika prądowego i napięciowego (schematy)]]
-* ## 4. Obwody magnetyczne
+* ## 4. Obwody magnetyczne ([[Magnetyzm\|Magnetyzm]])
 	* [[10 Notatki/EGZ INŻ 4.01 – Podział materiałów magnetycznych. Charakterystyki magnesowania i właściwości materiałów magnetycznych stosowanych w obwodach magnetycznych o stałym i zmiennym polu magnetycznym\|EGZ INŻ 4.01 – Podział materiałów magnetycznych. Charakterystyki magnesowania i właściwości materiałów magnetycznych stosowanych w obwodach magnetycznych o stałym i zmiennym polu magnetycznym]]
 	* [[10 Notatki/EGZ INŻ 4.02 – Prawa dla obwodów magnetycznych (prawo Gaussa, prawo przepływu itd)\|EGZ INŻ 4.02 – Prawa dla obwodów magnetycznych (prawo Gaussa, prawo przepływu itd)]]
 	* [[10 Notatki/EGZ INŻ 4.03 – Analiza prostego obwodu magnetycznego z magnesem trwałym i szczeliną powietrzną\|EGZ INŻ 4.03 – Analiza prostego obwodu magnetycznego z magnesem trwałym i szczeliną powietrzną]]
