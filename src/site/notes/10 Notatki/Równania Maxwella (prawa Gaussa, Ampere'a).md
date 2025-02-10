@@ -1,13 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/10 Notatki/EGZ INŻ 4.02 – Prawa dla obwodów magnetycznych (prawo Gaussa, prawo przepływu itd)/","tags":["wiedza/zettel","to-do/research"]}
+{"dg-publish":true,"permalink":"/10 Notatki/Równania Maxwella (prawa Gaussa, Ampere'a)/","tags":["wiedza/zettel"]}
 ---
-
-* ## [[10 Notatki/Równania Maxwella (prawa Gaussa, Ampere'a)\|Równania Maxwella (prawa Gaussa, Ampere'a)]]
-	* 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-notatki/rownania-maxwella-prawa-gaussa-ampere-a/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 * $\nabla$
 	* wektor pochodnych zmiennych dotyczących położenia
@@ -48,5 +41,3 @@
 			* i zmiana pola elektrycznego
 	* rotujące pole magnetyczne zamkniętej pętli powstaje wskutek przypływu prądu prostopadle do tej pętli oraz zmianom pola elektrycznego przechodzącego przez tę pętlę
 	* i vice versa oczywiście
-
-</div></div>

@@ -7,7 +7,7 @@
 	* [[10 Notatki/EGZ INŻ 1.02 – Moce w obwodach z przebiegami okresowymi odkształconymi\|EGZ INŻ 1.02 – Moce w obwodach z przebiegami okresowymi odkształconymi]]
 	* [[10 Notatki/EGZ INŻ 1.03 – Rozwiązywanie obwodów elektrycznych liniowych – metoda superpozycji na (wybranym) przykładzie\|EGZ INŻ 1.03 – Rozwiązywanie obwodów elektrycznych liniowych – metoda superpozycji na (wybranym) przykładzie]]
 	* [[10 Notatki/EGZ INŻ 1.04 – Rozwiązywanie obwodów elektrycznych liniowych – metoda prądów oczkowych na przykładzie (obwód z 3 oczkami i co najmniej jedną gałęzią osobliwą)\|EGZ INŻ 1.04 – Rozwiązywanie obwodów elektrycznych liniowych – metoda prądów oczkowych na przykładzie (obwód z 3 oczkami i co najmniej jedną gałęzią osobliwą)]]
-	* 
+	* [[]]
 * ## 2. [[Elektronika\|Elektronika]] i [[Energoelektronika\|Energoelektronika]]
 	* [[10 Notatki/EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.01 – Diody – rodzaje, właściwości i zastosowanie]]
 	* [[10 Notatki/EGZ INŻ 2.02 – Tyrystory – rodzaje, właściwości i zastosowanie\|EGZ INŻ 2.02 – Tyrystory – rodzaje, właściwości i zastosowanie]]
