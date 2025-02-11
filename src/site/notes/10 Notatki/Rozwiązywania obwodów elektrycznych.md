@@ -11,4 +11,5 @@
 	* Prąd $I_{1}$ wpływa do węzła i rozpływa się na prądy $I_{2}$ i $I_{3}$
 	* Prąd $I_{3}$ obliczamy ze wzoru
 		* $$I_{3}=I_{1}*\frac{R_{2}}{R_{2}*R_{34}}$$
-* 
+* ## Gałęzie osobliwe i nieosobliwe
+	* ![Pasted image 20250211113330.png](/img/user/80%20Zasoby/Pasted%20image%2020250211113330.png)
