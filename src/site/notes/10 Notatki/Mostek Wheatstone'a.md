@@ -11,7 +11,7 @@
 		* przez rezystory $R_{1}$ i $R_{2}$
 		* oraz przez rezystory $R_{3}$ i $R_{x}$
 		* ![Pasted image 20250208192320.png](/img/user/80%20Zasoby/Pasted%20image%2020250208192320.png)
-	* Zgodnie z [[Metoda węzłowa\|Metoda węzłowa]]:
+	* Zgodnie z [[10 Notatki/Metoda węzłowa\|Metoda węzłowa]]:
 		* napięcie w węźle C równe jest
 			* $V_{C}=\frac{R_{2}}{R_{2}+R_{1}}*E_{źr}$
 		* napięcie w węźle D równe jest
